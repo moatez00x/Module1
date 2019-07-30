@@ -22,7 +22,7 @@ var t=0
    t=t+1;
 }
 if(t===strCopy.length)
-$scope.result="Empty";
+$scope.result="Please enter data first";
 
 
 }
